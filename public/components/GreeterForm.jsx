@@ -1,4 +1,4 @@
-var GreeterForm = require('react');
+var React = require('react');
 
 var GreeterForm = React.createClass({
   onFormSubmit: function(e){
@@ -37,4 +37,4 @@ var GreeterForm = React.createClass({
   }
 });
 
-modules.export = GreeterForm;
+module.exports = GreeterForm;
