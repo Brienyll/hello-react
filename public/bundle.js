@@ -19828,7 +19828,7 @@
 
 	'use strict';
 
-	var GreeterForm = __webpack_require__(1);
+	var React = __webpack_require__(1);
 
 	var GreeterForm = React.createClass({
 	  displayName: 'GreeterForm',
@@ -19878,7 +19878,7 @@
 	  }
 	});
 
-	modules.export = GreeterForm;
+	module.exports = GreeterForm;
 
 /***/ }
 /******/ ]);
