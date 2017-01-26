@@ -1,2 +1,1 @@
-# hello-react
-React Project
+# React Project
